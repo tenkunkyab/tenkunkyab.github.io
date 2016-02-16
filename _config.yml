@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: MemoryDump
+email: ten.kunkyab@gmail.com
+description:  # this means to ignore newlines until "baseurl:"
+  I mostly work @cubitoin a company that's revolutionizing the Logistics Technologies & Employee Transportation System.
+  I work as a Full Stack Software Developer. I volunteer at PyCon-India. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://tenkunkyab.github.io" # the base hostname & protocol for your site
+twitter_username: tenzkunkyab
+github_username:  tenkunkyab
+
+# Build settings
+markdown: kramdown
