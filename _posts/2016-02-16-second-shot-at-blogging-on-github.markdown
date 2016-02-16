@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Second Shot at Blogging on GitHub
 layout: post
 ---
@@ -17,5 +17,4 @@ Optimally I would prefer "not" using the "tinypress.co" url to blog,
 ( I was already doing that with http://tenkunkyab.blogspot.in/ )
 
 If there are more blog posts without any title resembling "Third/Fourth"
-then TinyPress it doing it for me. 
-
+then TinyPress it doing it for me.
