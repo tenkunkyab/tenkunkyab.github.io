@@ -29,8 +29,9 @@ Syntax:
 So, now you're project directory is sitting pretty in some folder that you have full control over and doesn't require any extra permission to run.
 
 The output from this?
-1. No more password prompt for permission for any change/add/remove
-2. Cleaner Root Directory
+* No more password prompt for permission for any change/add/remove
+
+* Cleaner Root Directory
 
 
 References/URLs:
