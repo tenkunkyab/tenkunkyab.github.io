@@ -18,7 +18,7 @@ What I really wanted to emphasize on is the beauty of Soft Link in Linux, and ho
 
 I am certain almost everyone does what I am about to tell you. But this is for beginners.
 
-I use what's called a Soft Link, to know a little bit more about it [2]. 
+I use what's called a Soft Link, to know a little bit more about it [2].
 You're basically creating a soft link in the /var/www/html that points to any other location on your machine that does not requires root credentials
 
 Syntax:
@@ -29,6 +29,7 @@ Syntax:
 So, now you're project directory is sitting pretty in some folder that you have full control over and doesn't require any extra permission to run.
 
 The output from this?
+
 * No more password prompt for permission for any change/add/remove
 
 * Cleaner Root Directory
@@ -37,7 +38,6 @@ The output from this?
 References/URLs:
 
 [1] https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-14-04
-
 [2] http://www.cyberciti.biz/faq/creating-soft-link-or-symbolic-link/
 
 Thank you for your time.
