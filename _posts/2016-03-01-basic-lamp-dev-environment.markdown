@@ -2,7 +2,7 @@
 layout		: 	post
 title		:	"Basic LAMP Development Envinronment"
 date		: 	2016-03-01 20:21:00 +530
-categories	: 	tech
+categories	: 	blog
 ---
 
 I have been a Web Developer for some time now. I used to work on Windows machine, I had installed XAMPP which caters to my needs back then. At first I had to manually start and stop the Apache, MySQL services. And later on, I found the setting to auto-matically start those services on Boot Up.

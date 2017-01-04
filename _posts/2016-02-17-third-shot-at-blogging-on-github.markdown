@@ -2,7 +2,7 @@
 layout: post
 title:  "Third Shot at Blogging on GitHub"
 date:   2016-02-17 02:16:33 +0530
-categories: jekyll update
+categories: blog
 ---
 
 So yeah!

@@ -2,7 +2,7 @@
 layout: post
 title:  "Cron Job in Django"
 date:   2017-01-05 01:35:33 +0530
-categories: jekyll update
+categories: blog
 ---
 
 A week ago I was handed a task to run a backend program that would periodically push data from one project to another one. Although I have experience writing snippets in PHP and setting "cron jobs" on Linux (Ubuntu) Servers on AWS, I wanted to give Django a shot at this, eventhough there are better ways of doing this.

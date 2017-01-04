@@ -2,7 +2,7 @@
 layout: post
 title:  "Second Shot at Blogging on GitHub"
 date:   2016-02-17 02:16:33 +0530
-categories: jekyll update
+categories: blog
 ---
 
 I gave my first shot at Blogging on GitHub.io with Jekyll.
