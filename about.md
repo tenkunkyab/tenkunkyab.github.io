@@ -6,16 +6,22 @@ permalink: /about/
 
 Hi, I am Tenzin Kunkyab.
 
-I work as a Full Stack Web Developer at [Cubito](http://www.cubito.in/).
+Currently I work as a Senior Software Developer at [Magnitude Software Inc](https://www.magnitude.com/), where I migrate Legacy Web application to modern Web technologies.
 
-Technologies I currently work with are:
+Languages/Library/Framework I am comfortable with:
+- JavaScript: ReactJS, Redux, Reflux, Flux, Lodash(Underscore)
+- Python: Django
+- PHP: CodeIgniter
 
-- PHP
-- Python
-- Django
-- HTML
-- CSS
-- JavaScript
+Languages/Technologies that I am interested in or currently learning:
+- Go
+- Ruby: Jekyll, Rails
+- Python: Flask, Pyramid
+- Docker
+- K8
+- Ansible
+- React Native
+- Electron
 
 Tools/System I prefer working with:
 
